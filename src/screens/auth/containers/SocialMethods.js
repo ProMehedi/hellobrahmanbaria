@@ -110,14 +110,14 @@ function SocialMethods(props) {
           button
           iconSize={16}
           raised={false}
-          type="google-plus"
+          type="google"
           style={styles.socialIconStyle}
           onPress={loginGoogle}
         />
       ) : null}
       {toggleLoginSMS ? (
         <SocialIcon
-          type="comments"
+          type="phone"
           iconSize={16}
           button
           raised={false}

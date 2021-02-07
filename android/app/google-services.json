@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "269150406981-o4olr8625miai5s8d3p69r390vek1l14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gb_hellobrahmanbaria",
+            "certificate_hash": "28b639d8a89195bf3a24c55dc162e5f181c5bd61"
+          }
+        },
+        {
           "client_id": "269150406981-l8qisnb2vg4h2hbdp16e329930nfopn2.apps.googleusercontent.com",
           "client_type": 3
         }
