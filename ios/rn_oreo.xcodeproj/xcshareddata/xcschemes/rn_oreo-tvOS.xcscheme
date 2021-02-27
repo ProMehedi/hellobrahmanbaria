@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "rn_oreo-tvOS.app"
-               BlueprintName = "rn_oreo-tvOS"
-               ReferencedContainer = "container:rn_oreo.xcodeproj">
+               BuildableName = "gb_hellobrahmanbaria-tvOS.app"
+               BlueprintName = "gb_hellobrahmanbaria-tvOS"
+               ReferencedContainer = "container:gb_hellobrahmanbaria.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rn_oreo-tvOSTests.xctest"
-               BlueprintName = "rn_oreo-tvOSTests"
-               ReferencedContainer = "container:rn_oreo.xcodeproj">
+               BuildableName = "gb_hellobrahmanbaria-tvOSTests.xctest"
+               BlueprintName = "gb_hellobrahmanbaria-tvOSTests"
+               ReferencedContainer = "container:gb_hellobrahmanbaria.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn_oreo-tvOS.app"
-            BlueprintName = "rn_oreo-tvOS"
-            ReferencedContainer = "container:rn_oreo.xcodeproj">
+            BuildableName = "gb_hellobrahmanbaria-tvOS.app"
+            BlueprintName = "gb_hellobrahmanbaria-tvOS"
+            ReferencedContainer = "container:gb_hellobrahmanbaria.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn_oreo-tvOS.app"
-            BlueprintName = "rn_oreo-tvOS"
-            ReferencedContainer = "container:rn_oreo.xcodeproj">
+            BuildableName = "gb_hellobrahmanbaria-tvOS.app"
+            BlueprintName = "gb_hellobrahmanbaria-tvOS"
+            ReferencedContainer = "container:gb_hellobrahmanbaria.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
